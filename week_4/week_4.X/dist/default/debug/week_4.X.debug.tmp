@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>G:\My Drive\University\Microlab\week_4\week_4.X</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files/Microchip/MPLABX/v6.10/packs/Microchip/ATmega_DFP/3.0.158/avrasm/inc</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>test.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files/Microchip/MPLABX/v6.10/packs/Microchip/ATmega_DFP/3.0.158/avrasm/inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>dist/default/debug/week_4.X.debug.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>test.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>dist/default/debug/week_4.X.debug.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>test.asm</FILE><LINE>22</LINE></setup>
+  <ADC_INT><FILE>test.asm</FILE><LINE>123</LINE></ADC_INT>
+  <lcd_init><FILE>test.asm</FILE><LINE>214</LINE></lcd_init>
+  <wait_msec><FILE>test.asm</FILE><LINE>312</LINE></wait_msec>
+  <lcd_clear_display><FILE>test.asm</FILE><LINE>263</LINE></lcd_clear_display>
+  <main><FILE>test.asm</FILE><LINE>49</LINE></main>
+  <fraction_convert><FILE>test.asm</FILE><LINE>94</LINE></fraction_convert>
+  <bcd_conversion><FILE>test.asm</FILE><LINE>131</LINE></bcd_conversion>
+  <load_to_display><FILE>test.asm</FILE><LINE>150</LINE></load_to_display>
+  <lcd_data><FILE>test.asm</FILE><LINE>279</LINE></lcd_data>
+  <loop><FILE>test.asm</FILE><LINE>135</LINE></loop>
+  <done><FILE>test.asm</FILE><LINE>144</LINE></done>
+  <one><FILE>test.asm</FILE><LINE>157</LINE></one>
+  <end><FILE>test.asm</FILE><LINE>209</LINE></end>
+  <two><FILE>test.asm</FILE><LINE>163</LINE></two>
+  <three><FILE>test.asm</FILE><LINE>169</LINE></three>
+  <four><FILE>test.asm</FILE><LINE>175</LINE></four>
+  <five><FILE>test.asm</FILE><LINE>181</LINE></five>
+  <six><FILE>test.asm</FILE><LINE>187</LINE></six>
+  <seven><FILE>test.asm</FILE><LINE>193</LINE></seven>
+  <eight><FILE>test.asm</FILE><LINE>199</LINE></eight>
+  <nine><FILE>test.asm</FILE><LINE>205</LINE></nine>
+  <wait_usec><FILE>test.asm</FILE><LINE>325</LINE></wait_usec>
+  <lcd_command><FILE>test.asm</FILE><LINE>271</LINE></lcd_command>
+  <write_2_nibbles><FILE>test.asm</FILE><LINE>287</LINE></write_2_nibbles>
+  <delay_8cycles><FILE>test.asm</FILE><LINE>330</LINE></delay_8cycles>
+ </LABELS>
+</ASSEMBLER_INFO>
