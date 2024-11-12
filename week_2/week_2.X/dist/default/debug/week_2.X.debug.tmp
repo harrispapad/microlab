@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>G:\My Drive\University\Microlab\week_2\week_2.X</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files/Microchip/MPLABX/v6.10/packs/Microchip/ATmega_DFP/3.0.158/avrasm/inc</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>2.3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files/Microchip/MPLABX/v6.10/packs/Microchip/ATmega_DFP/3.0.158/avrasm/inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>dist/default/debug/week_2.X.debug.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>2.3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>dist/default/debug/week_2.X.debug.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>2.3.asm</FILE><LINE>9</LINE></setup>
+  <ISR1><FILE>2.3.asm</FILE><LINE>69</LINE></ISR1>
+  <main><FILE>2.3.asm</FILE><LINE>37</LINE></main>
+  <lights_on><FILE>2.3.asm</FILE><LINE>46</LINE></lights_on>
+  <refresh><FILE>2.3.asm</FILE><LINE>59</LINE></refresh>
+  <wait_delay_ms><FILE>2.3.asm</FILE><LINE>118</LINE></wait_delay_ms>
+  <spark><FILE>2.3.asm</FILE><LINE>75</LINE></spark>
+  <short_delay><FILE>2.3.asm</FILE><LINE>112</LINE></short_delay>
+  <skip><FILE>2.3.asm</FILE><LINE>86</LINE></skip>
+  <refresh_int><FILE>2.3.asm</FILE><LINE>92</LINE></refresh_int>
+  <int_end><FILE>2.3.asm</FILE><LINE>97</LINE></int_end>
+  <long_delay><FILE>2.3.asm</FILE><LINE>106</LINE></long_delay>
+  <delay_1ms><FILE>2.3.asm</FILE><LINE>126</LINE></delay_1ms>
+  <delay_inner><FILE>2.3.asm</FILE><LINE>133</LINE></delay_inner>
+  <loop3><FILE>2.3.asm</FILE><LINE>135</LINE></loop3>
+ </LABELS>
+</ASSEMBLER_INFO>
