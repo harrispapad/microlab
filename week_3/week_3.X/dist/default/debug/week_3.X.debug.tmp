@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>G:\My Drive\University\Microlab\week_3\week_3.X</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files/Microchip/MPLABX/v6.10/packs/Microchip/ATmega_DFP/3.0.158/avrasm/inc</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>3.1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files/Microchip/MPLABX/v6.10/packs/Microchip/ATmega_DFP/3.0.158/avrasm/inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>dist/default/debug/week_3.X.debug.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>3.1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>dist/default/debug/week_3.X.debug.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>3.1.asm</FILE><LINE>14</LINE></setup>
+  <DC_TABLE><FILE>3.1.asm</FILE><LINE>11</LINE></DC_TABLE>
+  <main><FILE>3.1.asm</FILE><LINE>44</LINE></main>
+  <increment><FILE>3.1.asm</FILE><LINE>52</LINE></increment>
+  <decrement><FILE>3.1.asm</FILE><LINE>63</LINE></decrement>
+  <wait_x_ms><FILE>3.1.asm</FILE><LINE>86</LINE></wait_x_ms>
+  <delay_1ms><FILE>3.1.asm</FILE><LINE>93</LINE></delay_1ms>
+  <delay_inner><FILE>3.1.asm</FILE><LINE>99</LINE></delay_inner>
+  <loop3><FILE>3.1.asm</FILE><LINE>101</LINE></loop3>
+ </LABELS>
+</ASSEMBLER_INFO>
