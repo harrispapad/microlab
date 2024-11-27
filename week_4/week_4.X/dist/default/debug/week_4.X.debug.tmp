@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>G:\My Drive\University\Microlab\week_4\week_4.X</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files/Microchip/MPLABX/v6.10/packs/Microchip/ATmega_DFP/3.0.158/avrasm/inc</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>4.1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files/Microchip/MPLABX/v6.10/packs/Microchip/ATmega_DFP/3.0.158/avrasm/inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>dist/default/debug/week_4.X.debug.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>4.1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>dist/default/debug/week_4.X.debug.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>4.1.asm</FILE><LINE>22</LINE></setup>
+  <ADC_INT><FILE>4.1.asm</FILE><LINE>120</LINE></ADC_INT>
+  <lcd_init><FILE>4.1.asm</FILE><LINE>210</LINE></lcd_init>
+  <wait_msec><FILE>4.1.asm</FILE><LINE>308</LINE></wait_msec>
+  <lcd_clear_display><FILE>4.1.asm</FILE><LINE>259</LINE></lcd_clear_display>
+  <main><FILE>4.1.asm</FILE><LINE>49</LINE></main>
+  <fraction_convert><FILE>4.1.asm</FILE><LINE>91</LINE></fraction_convert>
+  <bcd_conversion><FILE>4.1.asm</FILE><LINE>128</LINE></bcd_conversion>
+  <load_to_display><FILE>4.1.asm</FILE><LINE>147</LINE></load_to_display>
+  <lcd_data><FILE>4.1.asm</FILE><LINE>275</LINE></lcd_data>
+  <loop><FILE>4.1.asm</FILE><LINE>132</LINE></loop>
+  <done><FILE>4.1.asm</FILE><LINE>141</LINE></done>
+  <one><FILE>4.1.asm</FILE><LINE>154</LINE></one>
+  <end><FILE>4.1.asm</FILE><LINE>206</LINE></end>
+  <two><FILE>4.1.asm</FILE><LINE>160</LINE></two>
+  <three><FILE>4.1.asm</FILE><LINE>166</LINE></three>
+  <four><FILE>4.1.asm</FILE><LINE>172</LINE></four>
+  <five><FILE>4.1.asm</FILE><LINE>178</LINE></five>
+  <six><FILE>4.1.asm</FILE><LINE>184</LINE></six>
+  <seven><FILE>4.1.asm</FILE><LINE>190</LINE></seven>
+  <eight><FILE>4.1.asm</FILE><LINE>196</LINE></eight>
+  <nine><FILE>4.1.asm</FILE><LINE>202</LINE></nine>
+  <wait_usec><FILE>4.1.asm</FILE><LINE>321</LINE></wait_usec>
+  <lcd_command><FILE>4.1.asm</FILE><LINE>267</LINE></lcd_command>
+  <write_2_nibbles><FILE>4.1.asm</FILE><LINE>283</LINE></write_2_nibbles>
+  <delay_8cycles><FILE>4.1.asm</FILE><LINE>326</LINE></delay_8cycles>
+ </LABELS>
+</ASSEMBLER_INFO>
